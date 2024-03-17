@@ -25,3 +25,8 @@
 
 
 Este script configura um banco de dados SQL básico com três tabelas: `Clientes`, `Motoristas` e `Pedidos`. Cada tabela possui atributos específicos e há relacionamentos entre elas usando chaves estrangeiras. O script também inclui dados de exemplo e operações SQL básicas para inserção, atualização, seleção e exclusão de registros.
+
+
+
+## Doc:
+https://github.com/Wfelipetm/AzureBd/blob/main/Relat%C3%B3rio_N4.pdf
